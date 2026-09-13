@@ -75,7 +75,7 @@ at the start of the line.
 ### 2. Install the required packages
 
 With the virtual environment activated, install everything listed in
-`requirements.txt` (numpy, matplotlib, and yfinance):
+`requirements.txt`:
 
 ```
 pip install -r requirements.txt
